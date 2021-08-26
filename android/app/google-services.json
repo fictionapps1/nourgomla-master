@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979648852866",
+    "project_id": "nour-gomla",
+    "storage_bucket": "nour-gomla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979648852866:android:ee32ec80fbc65aac3f959b",
+        "android_client_info": {
+          "package_name": "com.fictionapps.nourgomla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979648852866-lk347677cmth9nja2nnfu0ciasdfmoam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fictionapps.nourgomla",
+            "certificate_hash": "82af559b611fd5a154bb9a9d0a7373320db03f1a"
+          }
+        },
+        {
+          "client_id": "979648852866-0ssojpmv6v75b2ekbaiu4rtmmf1la8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhR592X0tHvrVsmPqk8pje48RX5vvTvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979648852866-0ssojpmv6v75b2ekbaiu4rtmmf1la8im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
